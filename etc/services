@@ -1,5 +1,3 @@
-# Full data: /usr/share/iana-etc/port-numbers.iana
-
 tcpmux              1/tcp
 tcpmux              1/udp
 compressnet         2/tcp
