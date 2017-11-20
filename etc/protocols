@@ -1,5 +1,3 @@
-# Full data: /usr/share/iana-etc/protocol-numbers.iana
-
 hopopt         0 HOPOPT
 icmp           1 ICMP
 igmp           2 IGMP
